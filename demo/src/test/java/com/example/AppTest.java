@@ -17,4 +17,8 @@ public class AppTest
     {
         System.out.println("***** Sample Testing Demo*******");
     }
+    @Test
+    public void test2(){
+        System.out.println("--------Sample testing 2 with Jenkins-------------");
+    }
 }
